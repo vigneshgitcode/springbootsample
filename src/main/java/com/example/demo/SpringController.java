@@ -10,7 +10,7 @@ public class SpringController {
 	
 	@RequestMapping("/hello")
 	public String sayhello() {
-		return "Welcome Vignesh!!!!!";
+		return "First Sample.... !!!Welcome Vignesh!!!!!";
 	}
 
 }
